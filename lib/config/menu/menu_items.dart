@@ -19,34 +19,34 @@ const appMenuItems = <MenuItem>[
       subtitle: 'Varios botones en flutter',
       url: '/buttons',
       icon: Icons.smart_button_outlined),
-      
   MenuItem(
       title: 'Tarjetas',
       subtitle: 'Un contenedor estilizado',
       url: '/cards',
       icon: Icons.credit_card),
-
   MenuItem(
       title: 'Progressindicators',
       subtitle: 'Generales y controlados',
       url: '/progress',
       icon: Icons.refresh_rounded),
-
-        MenuItem(
+  MenuItem(
       title: 'Snackbars y Dialogs',
       subtitle: 'Snackbars y dialogos',
       url: '/snackbars',
       icon: Icons.info_outline),
-
-        MenuItem(
+  MenuItem(
       title: 'Animated Container',
       subtitle: 'Stateful widget w/ animation',
       url: '/animated',
       icon: Icons.animation_outlined),
-
-          MenuItem(
+  MenuItem(
       title: 'UI Controls',
       subtitle: 'Controles en flutter',
       url: '/ui-controls',
       icon: Icons.car_rental_outlined),
+  MenuItem(
+      title: 'Introduccion a la App',
+      subtitle: 'Pequeno tutorial de la app',
+      url: '/tutorial',
+      icon: Icons.accessible_rounded),
 ];
